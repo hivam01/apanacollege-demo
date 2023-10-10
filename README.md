@@ -1,4 +1,4 @@
 # apanacollege-demo
 This is my first Git Repository
 <br>
-Author- Shivam Patel
+Author- Shivam Patel (apana college)
